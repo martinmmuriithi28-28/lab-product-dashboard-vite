@@ -1,3 +1,12 @@
-/* TODO: Style the product card container */
+.productCard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px;
+  background: white;
+}
 
-/* TODO: Add special styling for out-of-stock products */
+.outOfStockClass {
+  background-color: #f8d7da;
+  color: #721c24;
+}
